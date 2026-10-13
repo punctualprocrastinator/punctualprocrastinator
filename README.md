@@ -42,6 +42,7 @@ All 13 papers, with summaries, are on the [website](https://punctualprocrastinat
 - [**mechanistic-tamper-verification**](https://github.com/punctualprocrastinator/mechanistic-tamper-verification):
   detects tampered model updates by where their weight change concentrates.
 
-I teach **Redarc Fellows**, an eight-session mechanistic interpretability cohort taught with PyTorch hooks and no
-interpretability library in the stack. If you are working on monitoring, probing or AI control, I would like to hear
+I teach **Redarc Fellows**, an eight-session mechanistic interpretability bootcamp written with PyTorch hooks
+and no interpretability library in the stack. It now also runs in person with **Secure AI Futures Lab** at
+their Delhi hub, with reading groups on the weekends. If you are working on monitoring, probing or AI control, I would like to hear
 from you.
