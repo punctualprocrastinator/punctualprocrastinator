@@ -4,7 +4,8 @@ AI safety researcher working on mechanistic interpretability and adversarial rob
 monitors that read a model's activations, then attack them to find out what they really measure.
 
 Fellow at **MARS V** (Cambridge) · AI researcher at **Lexsi Labs** · co-founder of **Redarc Labs** ·
-research fellow at **Apart Research** · BS Data Science, **IIT Madras**
+research fellow at **Apart Research** · special projects fellow at
+**[Secure AI Futures Lab](https://secureaifutureslab.com)** · BS Data Science, **IIT Madras**
 
 [Website](https://punctualprocrastinator.github.io) · [CV](https://punctualprocrastinator.github.io/cv.pdf) ·
 [LinkedIn](https://linkedin.com/in/syntaxsavant) · [X](https://x.com/dubeyjiworks) · dubeyjiworks@gmail.com
